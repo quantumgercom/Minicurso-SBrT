@@ -1,0 +1,5 @@
+# Ignore a venv python
+.venv
+
+# Ignore o fidelitydata
+fidelitydata.txt

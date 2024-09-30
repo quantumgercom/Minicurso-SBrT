@@ -29,3 +29,6 @@ Obs: Caso queira realizar a utilização do código novamente
 Obs: Caso queira rodar o código novamente
 1. Clicar em "Ambiente de execução"
 1. Clicar em "Reiniciar sessão e executar tudo"  
+
+## Manual de utilização dos códigos do sequence pelo Google Colab
+1. [BB84](https://colab.research.google.com/drive/1krBs2N4twcVHKslKEpRBSFxWRTXaqfco?usp=drive_link)

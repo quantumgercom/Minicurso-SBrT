@@ -32,3 +32,5 @@ Obs: Caso queira rodar o código novamente
 
 ## Manual de utilização dos códigos do sequence pelo Google Colab
 1. [BB84](https://colab.research.google.com/drive/1krBs2N4twcVHKslKEpRBSFxWRTXaqfco?usp=drive_link)
+2. [Two Node EG](https://colab.research.google.com/drive/1UYcOqZ3UFo1af9vRbAmVs2OtIpnDPQQ_?authuser=2#scrollTo=W_Up9I4RV0qQ)
+3. [Sequence Three Nodes](https://colab.research.google.com/drive/1TUaQ_w7CfkRv21kat1uBwL3gb3CtcyA2?authuser=2#scrollTo=Gq6sVnq_U-og) 

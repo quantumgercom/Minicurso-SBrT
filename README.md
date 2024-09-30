@@ -17,7 +17,7 @@ Obs: Caso queira realizar a utilização do código novamente
 1. Clicar em "Reiniciar sessão e executar tudo"
 
 ## Manual da utilização dos códigos de simulação do QuISP pelo Google Colab
-1. Acessar um dos links: 
+1. Acessar um dos links: [Introduction](https://colab.research.google.com/drive/1p1FDyeVLBafgvbIa7cYzLL9kUe7k9dU4?usp=drive_link), [Config_Introduction](https://colab.research.google.com/drive/11Wuggw9IdszaHEPfhZOsFlPQD2dUGFeN?usp=drive_link)
 1. Clicar em "Arquivo"
 1. Clicar em "Fazer uma cópia no drive"
 1. Abrir a cópia do Drive

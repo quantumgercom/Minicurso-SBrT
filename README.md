@@ -11,6 +11,7 @@ Códigos desenvolvidos para o Minicurso "Simulação de Redes Quânticas: uma ab
 1. Digitar a senha repassada para baixar o código do NetSquid
 1. Clicar em "ambiente de execução"
 1. Clicar em "reiniciar e executar tudo"  
+
 Obs: Caso queira realizar a utilização do código novamente
 1. Clicar em "ambiente de execução"
 1. Clicar em "reiniciar e executar tudo"
@@ -22,4 +23,5 @@ Obs: Caso queira realizar a utilização do código novamente
 1. Abrir a cópia do Drive
 1. Clicar em "ambiente de execução"
 1. Clicar em "reiniciar e executar tudo"  
+
 Obs: Caso queira rodar o código novamente, é necessário realizar os últimos dois passos novamente

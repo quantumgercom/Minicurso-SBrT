@@ -6,12 +6,13 @@ Códigos desenvolvidos para o Minicurso "Simulação de Redes Quânticas: uma ab
 1. Clicar em "Arquivo"
 1. Clicar em "Salvar uma cópia do Drive"
 1. Abrir a cópia do Drive
-1. Rodar a primeira célula de código para baixar o simulador
-1. Clicar no espaço em branco ao lado do texto "usuário" e digitar o usuário passado
+1. Selecione a primeira célula de código para rodas para baixar o simulador e siga para o próximo passo
+1. Clicar no espaço em branco ao lado do texto "pypi.netsquid.org" e digitar o usuário passado
 1. Digitar a senha repassada para baixar o código do NetSquid
-1. Irá aparecer uma mensagem de erro o qual apenas aperte em confirmar 
+1. Irá aparecer uma mensagem de erro o qual apenas aperte em "Reiniciar sessão" e siga para o próximo passo
 1. Clicar em "Ambiente de execução"
-1. Clicar em "Reiniciar sessão e executar tudo"  
+1. Clicar em "Reiniciar sessão e executar tudo"
+1. Realizar os últimos dois passos novamente 
 
 Obs: Caso queira realizar a utilização do código novamente
 1. Clicar em "Ambiente de execução"

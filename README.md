@@ -30,7 +30,14 @@ Obs: Caso queira rodar o código novamente
 1. Clicar em "Ambiente de execução"
 1. Clicar em "Reiniciar sessão e executar tudo"  
 
-## Manual de utilização dos códigos do sequence pelo Google Colab
-1. [BB84](https://colab.research.google.com/drive/1krBs2N4twcVHKslKEpRBSFxWRTXaqfco?usp=drive_link)
-2. [Two Node EG](https://colab.research.google.com/drive/1UYcOqZ3UFo1af9vRbAmVs2OtIpnDPQQ_?authuser=2#scrollTo=W_Up9I4RV0qQ)
-3. [Sequence Three Nodes](https://colab.research.google.com/drive/1TUaQ_w7CfkRv21kat1uBwL3gb3CtcyA2?authuser=2#scrollTo=Gq6sVnq_U-og) 
+## Manual de utilização dos códigos da simulação do Sequence pelo Google Colab
+1. Clique em um dos links: [BB84](https://colab.research.google.com/drive/1krBs2N4twcVHKslKEpRBSFxWRTXaqfco?usp=drive_link), [Adding_Cascade](https://colab.research.google.com/drive/13osTxpxjc9mNnMmuPC6vbcJjZrOOKRSW?usp=drive_link),[Two Node EG](https://colab.research.google.com/drive/1UYcOqZ3UFo1af9vRbAmVs2OtIpnDPQQ_?authuser=2#scrollTo=W_Up9I4RV0qQ), [Sequence Three Nodes](https://colab.research.google.com/drive/1TUaQ_w7CfkRv21kat1uBwL3gb3CtcyA2?authuser=2#scrollTo=Gq6sVnq_U-og)
+1. Clique em "Arquivo"
+1. Clicar em "Salvar uma cópia do Drive"
+1. Abrir a cópia do Drive
+1. Clicar em "Ambiente de execução"
+1. Clicar em "Reiniciar sessão e executar tudo"
+
+Obs: Caso queira rodar o código novamente
+1. Clicar em "Ambiente de execução"
+1. Clicar em "Reiniciar sessão e executar tudo"  

@@ -2,9 +2,21 @@
 Códigos desenvolvidos para o Minicurso "Simulação de Redes Quânticas: uma abordagem prática" realizado no SBrT24.
 
 ## Arquivos UNICAMP
+Passos para usar o Colab
+1. Clicar em "Arquivo"
+2. Clicar em "Salvar uma cópia do Drive"
+3. Abrir a cópia do Drive
+4. Selecione a primeira célula de código para rodar baixando o simulador e siga para o próximo passo
 [Drive do minicurso para UNICAMP.](https://drive.google.com/drive/folders/1IKORqV-LpgHxridgDusEAQomAEweUklY?usp=sharing)
 Exemplos Sequence
-1. [PingPong](https://colab.research.google.com/drive/1uvVxSr0Z5mUglLuRxacfx8NOB0dZUU07): 
+1. [PingPong](https://colab.research.google.com/drive/1uvVxSr0Z5mUglLuRxacfx8NOB0dZUU07):
+2. [Criando Entrelaçamento](https://colab.research.google.com/drive/1mJieT6nKi0cYK8JeAzCc8K3hZIX_v5Hu):
+3. [Purificando pares EPRs](https://colab.research.google.com/drive/1rbDT73cpY8kT019FEDgc3rEpCPhg8q8Y)
+4. [Entanglement Swapping](https://colab.research.google.com/drive/1g-dtCycDWDmqridYffaJeG3tdMtrFm6w)
+5. [Resource Management](https://colab.research.google.com/drive/1UwNCXoMBIzYnNfx8DU6UDY3tZNKGXo65)
+6. [Network Manager](https://colab.research.google.com/drive/1MCqttjoZel3ehRstnbut4PB63fXvndIw)
+7. [Application](https://colab.research.google.com/drive/1mrHdA5-f00E2VyBsfelJQJCo9oaBMTSK)
+
 
 ## Manual de utilização dos códigos de simulação do NetSquid pelo Google Colab
 1. Acessar um dos links: [Teleportation](https://colab.research.google.com/drive/1k4Niumhm3cZ_r_MdYsjzN0pj6zbU-wBb?usp=drive_link), [Purification](https://colab.research.google.com/drive/1gxYSsgi4bogyv0D2zu9eLu4LkGOM8iyj?usp=drive_link), [Final_Simulation](https://colab.research.google.com/drive/1Tyn8Isoca8fA0gq2hXDQBRW2eKhp1ED9?usp=drive_link) 
